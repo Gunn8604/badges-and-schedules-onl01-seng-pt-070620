@@ -4,5 +4,7 @@ end
 badge_maker
 end
 
-def batch_badge_creator
+def batch_badge_creator(name)
+  badge_messages = []
+end
   
