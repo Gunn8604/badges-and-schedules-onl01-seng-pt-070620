@@ -9,6 +9,7 @@ end
 def assign_rooms(speaker)
   new_arr = []
   speaker.each_with_index do |name, i|
+    new_arr << 
   end
   assign_rooms
 end
