@@ -7,6 +7,8 @@ end
 def batch_badge_creator(name)
   badge_messages = []
 end
+batch_badge_creator
+end
 
 def assign_rooms
   counter = 1 
