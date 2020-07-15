@@ -7,7 +7,7 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms(speaker)
-  counter = 1 
+  new array 
   until counter == 7
   speaker each.do |speaker|
     "Hello, #{speaker}! You'll be assigned to room #{counter}!"
