@@ -8,10 +8,7 @@ end
 
 def assign_rooms(speaker)
   new_arr = []
-  until counter == 7
-  speaker each.do |speaker|
-    "Hello, #{speaker}! You'll be assigned to room #{counter}!"
-    counter +=1 
+  speaker
   end
   assign_rooms
 end
