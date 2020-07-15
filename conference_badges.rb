@@ -10,5 +10,5 @@ end
 
 def assign_rooms
   counter = 1 
-  speaker each.do 
+  speaker each.do |speaker|
   
