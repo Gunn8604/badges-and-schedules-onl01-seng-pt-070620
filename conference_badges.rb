@@ -11,5 +11,5 @@ end
 def assign_rooms
   counter = 1 
   speaker each.do |speaker|
-    "Hello, "
+    "Hello, #{speaker}! You'll be assigned to room #{counter}!"
   
