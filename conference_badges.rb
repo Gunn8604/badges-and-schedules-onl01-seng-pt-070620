@@ -12,7 +12,7 @@ end
 
 def assign_rooms
   counter = 1 
-  until counter 
+  until counter == 7
   speaker each.do |speaker|
     "Hello, #{speaker}! You'll be assigned to room #{counter}!"
     counter +=1 
