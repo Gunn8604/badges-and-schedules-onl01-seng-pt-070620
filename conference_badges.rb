@@ -3,7 +3,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(names)
-  names.map{ |name
+  names.map{ |name| 
 end
 
 def assign_rooms
